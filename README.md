@@ -1,6 +1,8 @@
 # confab
 
 A new Flutter project.
+It is a chat application where different users can log in and 
+communicate with each other in real time.
 
 ## Getting Started
 

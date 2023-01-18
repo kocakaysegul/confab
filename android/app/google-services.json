@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999920979296",
+    "project_id": "confab-ea23a",
+    "storage_bucket": "confab-ea23a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999920979296:android:6fbbf4c51cb73ab65a2205",
+        "android_client_info": {
+          "package_name": "com.example.confab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999920979296-pgikv3k04j48nven6vq85rnk3fn43mel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnsehJak13RP3pM6d4Rp75v4UXtayDfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999920979296-pgikv3k04j48nven6vq85rnk3fn43mel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
